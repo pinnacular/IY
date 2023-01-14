@@ -2,4 +2,4 @@
 Infinite Yield 
 
 copy the script below:
-loadstring(game:HttpGet"https://raw.githubusercontent.com/pinnacular/IY/main/main")()
+```loadstring(game:HttpGet"https://raw.githubusercontent.com/pinnacular/IY/main/main")()```
