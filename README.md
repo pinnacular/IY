@@ -1,5 +1,5 @@
 # IY
 Infinite Yield 
 
-##  Script:
+# Script:
 ```loadstring(game:HttpGet"https://raw.githubusercontent.com/pinnacular/IY/main/main")()```
